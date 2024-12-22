@@ -16,12 +16,14 @@ Este projeto é uma landing page dedicada ao álbum "Utopia" do rapper Travis Sc
 - **Emotion:** Biblioteca para estilização CSS-in-JS.
 - **Spotify API:** Para incorporar o reprodutor de música do Spotify.
 
- ## Licença
-  Este projeto é acadêmico e está livre de direitos autorais.
+## Licença
 
-Contato
+Este projeto é acadêmico e está livre de direitos autorais.
+
+## Contato
+
 Se você tiver alguma dúvida, sinta-se à vontade para me contatar:
 
-Nome: Gustavo Ferreira de Araujo
-Email: gustavoaraujo2017fise@gmail.com
-GitHub: gustavofda
+Nome: Gustavo Ferreira de Araujo  
+Email: gustavoaraujo2017fise@gmail.com  
+GitHub: [gustavofda](https://github.com/gustavofda4)
