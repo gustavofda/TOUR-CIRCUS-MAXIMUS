@@ -21,7 +21,7 @@ const MusicPlayerButton = styled(motion.div)`
   margin-left: 10px;
 
   &.playing {
-    background: url('/images/pause-icon.png') no-repeat center center;
+    background: url('/images/botao-de-pausa.png') no-repeat center center;
     background-size: cover;
   }
 `;
