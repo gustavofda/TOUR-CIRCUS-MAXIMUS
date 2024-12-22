@@ -26,4 +26,4 @@ Se você tiver alguma dúvida, sinta-se à vontade para me contatar:
 
 Nome: Gustavo Ferreira de Araujo  
 Email: gustavoaraujo2017fise@gmail.com  
-GitHub: [gustavofda4](https://github.com/gustavofda4)
+GitHub: [gustavofda](https://github.com/gustavofda4)
